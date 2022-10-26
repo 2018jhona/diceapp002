@@ -57,7 +57,7 @@ class SeconsScreen extends StatelessWidget{
                                   children: [
                                     SizedBox(width: 100,height: 10.0,),
                                     Text('s/5500',style: TextStyle(color: Color.fromARGB(255, 61, 79, 185), fontSize: 20)),
-                                    Text('Expenses',style: TextStyle(color: Color.fromARGB(255, 61, 79, 185))),
+                                    Text('Expense',style: TextStyle(color: Color.fromARGB(255, 61, 79, 185))),
                                   ],
                                 ),
                               ),
